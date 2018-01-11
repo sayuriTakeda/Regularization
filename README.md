@@ -1,1 +1,1 @@
-# Regularization-
+# Regularization
